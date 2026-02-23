@@ -1,7 +1,7 @@
 let employees = [
-    {name: "Alice", hoursWorked: 40, hourlyRate: 15},
-    {name: "Bob", hoursWorked: 35, hourlyRate: 20},
-    {name: "Charlie", hoursWorked: 45, hourlyRate: 17}
+    {name: "Alex", hoursWorked: 40, hourlyRate: 15},
+    {name: "Chad", hoursWorked: 35, hourlyRate: 20},
+    {name: "Abby", hoursWorked: 45, hourlyRate: 17}
 ];
 
 console.log("employees", employees);
